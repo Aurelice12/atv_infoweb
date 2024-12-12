@@ -1,0 +1,40 @@
+#paragrafos {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffeef8; 
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #d5006d; 
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 80%; 
+    padding: 10px; 
+    margin: 10px 0;
+
+}
+
+button {
+    padding: 10px 20px;
+    border: none; 
+    border-radius: 5px; 
+    background-color: #ef66aa; 
+    color: #7c0034; 
+    cursor: pointer; 
+}
+
+button:hover {
+    background-color: #ff97cb; 
+}
